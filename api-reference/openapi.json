@@ -391,7 +391,7 @@
     },
     "/broker/devices": {
       "get": {
-        "description": "Retornar a lista de dispositivos de um cliente MoT. A lista em questão está pginada com filtros. (Possui dados sensíveis).",
+        "description": "Retornar a lista de dispositivos de um cliente MoT. A lista em questão está paginada com filtros. (Possui dados sensíveis).",
         "parameters": [
           {
             "name": "Content-Type",
